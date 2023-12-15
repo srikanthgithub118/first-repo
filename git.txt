@@ -1,2 +1,4 @@
 this is a git file to test git commands
-added new line 
+added new line
+added new line to test the ssh key configuration 
+
